@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexKocnev
+- 👋 Hi, I’m @AlexKochnev
 - 👀 I’m interested in back end developing
 - 🌱 I’m currently learning java skript
 - 💞️ I’m looking to collaborate on ...
